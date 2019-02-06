@@ -6,4 +6,5 @@ Dodano nekaj, nekaj.......
 
 sped novi feature
 
-* [ ] Test
+* [ ] unchecked
+  * [x] checked
